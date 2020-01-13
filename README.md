@@ -8,7 +8,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 A tiny tool for desktop remote control via IMAP and SMTP.
 
-![ILLUSTRATION](https://github.com/H-Ismael/PyMR/blob/master/Capture.PNG?raw=true)
+![ILLUSTRATION](https://github.com/H-Ismael/PyRD/blob/master/Capture.PNG?raw=true)
 
 #Features:
 
