@@ -25,4 +25,4 @@ A tiny tool for desktop remote control via IMAP and SMTP.
 
 -Procedures could be more efficient and the code away more clean.
 
--Security is not yet audited ( Evaluation of the dreaded events and the severity of impact).
+-Inner security is not yet audited ( Evaluation of the dreaded events and the severity of impact).
