@@ -21,7 +21,7 @@ A tiny tool for desktop remote control via IMAP and SMTP.
 
 ***Sugested improvements : 
 
--Exceptions management.
+-Exceptions management can be imporved especially for delays errors. 
 
 -Procedures could be more efficient and the code away more clean.
 
